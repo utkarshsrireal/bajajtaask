@@ -1,0 +1,20 @@
+.record {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 10px;
+  }
+  
+  .record ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .record li {
+    margin-bottom: 5px;
+  }
+  
+  .record li span {
+    color: blue;
+  }
